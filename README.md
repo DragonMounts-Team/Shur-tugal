@@ -1,4 +1,4 @@
-Shur-tugal
+Shur'tugal
 ==========
 
-The Source Code to the Poplular Shur'tugal Mod
+The Source Code to the Popular Shur'tugal Mod
